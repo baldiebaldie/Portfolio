@@ -1,26 +1,29 @@
 const projects = [
   {
     id: 1,
-    title: 'Project One',
-    description: 'A full-stack web application. Replace this with your actual project description.',
-    tech: ['React', 'Node.js', 'PostgreSQL'],
-    githubUrl: 'https://github.com/bryanbaldie',
-    demoUrl: '',
+    title: 'Scapedle',
+    description:
+      'A daily browser-based guessing game for Old School RuneScape players. Features two modes: Items (identify OSRS items using GE data with multi-attribute feedback) and Music (locate in-game tracks on an interactive world map with distance-based hints). Deployed and live at scapedle.net.',
+    tech: ['React', 'JavaScript', 'Supabase', 'Leaflet', 'GitHub Actions'],
+    githubUrl: 'https://github.com/baldiebaldie/Scapedle',
+    demoUrl: 'https://scapedle.net',
   },
   {
     id: 2,
-    title: 'Project Two',
-    description: 'A mobile-responsive web app built with modern tooling. Replace with your actual description.',
-    tech: ['TypeScript', 'Express', 'MongoDB'],
-    githubUrl: 'https://github.com/bryanbaldie',
+    title: '3D Facial Expression Recognition',
+    description:
+      'An affective computing model that classifies six facial expressions (Angry, Disgust, Fear, Happy, Sad, Surprise) from 3D landmark data. Trained on the BU-4DFE dataset using a Random Forest classifier with Leave-One-Subject-Out cross-validation to prevent data leakage.',
+    tech: ['Python', 'Scikit-Learn', 'NumPy', 'Matplotlib'],
+    githubUrl: 'https://github.com/baldiebaldie/3D-Facial-Expression-Recognition',
     demoUrl: '',
   },
   {
     id: 3,
-    title: 'Project Three',
-    description: 'An API-driven application. Replace this with your actual project description.',
-    tech: ['Python', 'FastAPI', 'Docker'],
-    githubUrl: 'https://github.com/bryanbaldie',
+    title: 'Kinetic Core',
+    description:
+      'A minimalist bullet hell game featuring WASD movement, a focus mode for precision dodging, procedural bullet pattern generation, customizable difficulty sliders, and high score tracking.',
+    tech: ['JavaScript', 'HTML', 'CSS'],
+    githubUrl: 'https://github.com/baldiebaldie/Kinetic-Core',
     demoUrl: '',
   },
 ]

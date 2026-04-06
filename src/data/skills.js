@@ -1,19 +1,23 @@
 const skills = [
   {
     category: 'Frontend',
-    items: ['React', 'TypeScript', 'JavaScript', 'HTML', 'CSS', 'Tailwind CSS'],
+    items: ['React', 'JavaScript', 'TypeScript', 'HTML', 'CSS', 'Tailwind CSS'],
   },
   {
     category: 'Backend',
-    items: ['Node.js', 'Express', 'Python', 'FastAPI', 'REST APIs'],
+    items: ['Node.js', 'Express', 'Python', 'C#', 'C++'],
   },
   {
     category: 'Database',
-    items: ['PostgreSQL', 'MongoDB', 'MySQL'],
+    items: ['PostgreSQL', 'MySQL', 'Supabase'],
   },
   {
-    category: 'Tools & DevOps',
-    items: ['Git', 'Docker', 'GitHub Actions', 'Linux', 'VS Code'],
+    category: 'ML / AI',
+    items: ['Scikit-Learn', 'NumPy', 'Matplotlib', 'Pandas'],
+  },
+  {
+    category: 'Tools',
+    items: ['Git', 'GitHub Actions', 'VS Code', 'Vite', 'Linux'],
   },
 ]
 

@@ -29,11 +29,12 @@ export default function Hero() {
               Bryan Baldie
             </h1>
             <h2 className="text-xl md:text-2xl font-medium text-muted mb-6">
-              Full Stack Developer
+              Full Stack Developer & ML Engineer
             </h2>
             <p className="text-muted max-w-md mb-8 leading-relaxed">
-              I build clean, performant web applications. Passionate about great
-              developer experience and shipping products people love.
+              CS senior at USF building everything from full-stack web apps to
+              machine learning pipelines. Passionate about AI-focused software
+              and shipping products people actually use.
             </p>
 
             <div className="flex gap-4 justify-center md:justify-start flex-wrap">

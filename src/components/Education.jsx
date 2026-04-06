@@ -5,9 +5,9 @@ import bgEducation from '../bg-education.jpg'
 
 const education = [
   {
-    degree: 'BSc Computer Science',
-    institution: 'Your University Name',
-    year: '2024',
+    degree: "Bachelor's in Computer Science",
+    institution: 'University of South Florida',
+    year: 'Aug 2022 – May 2026',
   },
 ]
 

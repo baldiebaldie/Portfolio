@@ -13,15 +13,20 @@ export default function About() {
         transition={{ duration: 0.5, delay: 0.1 }}
       >
         <p className="text-muted text-lg leading-relaxed mb-4">
-          Hi! I'm Bryan, a passionate software developer with a love for building
-          clean, efficient, and user-friendly applications. I enjoy working across
-          the full stack, from crafting responsive UIs to designing robust backend
-          services.
+          Hi! I'm Bryan, a Senior Computer Science student at the University of
+          South Florida with a focus on AI-driven software development. I have a
+          strong foundation in full-stack development and machine learning
+          workflows, with hands-on experience in JavaScript, Python, C#, C++,
+          and SQL.
         </p>
         <p className="text-muted text-lg leading-relaxed">
-          When I'm not coding, you'll find me exploring new technologies, contributing
-          to open source, or levelling up in my favourite games. I'm always looking
-          for opportunities to learn and collaborate on interesting projects.
+          I've worked professionally as a Software Engineering Intern at
+          ResiCentral, building dynamic front-end interfaces integrated with
+          back-end systems. On the ML side, I work with Scikit-Learn, NumPy,
+          and Pandas to build and validate models — including a 3D facial
+          expression recognition system using Random Forest classification with
+          Leave-One-Subject-Out cross-validation. I'm always looking for
+          opportunities to bridge software engineering and machine learning.
         </p>
       </motion.div>
     </SectionWrapper>
