@@ -2,7 +2,7 @@
 
 Personal portfolio site built with React and Vite. Showcases projects, skills, and experience.
 
-**Live site:** https://bryanbaldie.github.io/Portfolio
+**Live site:** https://baldiebaldie.github.io/Portfolio/
 
 ---
 
