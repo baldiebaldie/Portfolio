@@ -27,7 +27,7 @@ jobs:
           node-version: 20
           cache: npm
 
-      - run: npm install
+      - run: npm ci
       - run: npx vite build
 
       - uses: actions/configure-pages@v5
